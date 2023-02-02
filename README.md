@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Manjhi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" width="300" alt="coding image" src="https://eldhothampi.com/images/banner-img.gif"/>
+<img align="center" width="500" alt="coding image" src="https://eldhothampi.com/images/banner-img.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmanjhi98&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmanjhi98" /> </p>
 
